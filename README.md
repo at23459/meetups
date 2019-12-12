@@ -24,4 +24,4 @@ The meetup is currently held in German language, but might consider English pres
 | ---- | ---------- | ------------------------------------- | ------ | -------- | ----- | ------------------ |
 |      |            |                                       |        |          |       |                    |
 | 1    | 2018-10-03 | Artificial Intelligence – quo vadis?  |[link](https://github.com/TIPVienna/meetups/tree/master/events/event_1)      |          |        | [link](https://www.meetup.com/Technologietrends-und-Innovation-fur-die-Praxis/events/263829460/)  |
-| 2    | 2018-12-09 |AI und Recht & Natural Language Processing im Justiz Kontext  |[link](https://github.ibm.com/benedikt-klotz-at/TIP/tree/master/meetups/events/event_2/slides)      |          |        | [link](https://www.meetup.com/Technologietrends-und-Innovation-fur-die-Praxis/events/266050576/)  |
+| 2    | 2018-12-09 |AI und Recht & Natural Language Processing im Justiz Kontext  |[link](https://github.com/TIPVienna/meetups/tree/master/events/event_2)      |          |        | [link](https://www.meetup.com/Technologietrends-und-Innovation-fur-die-Praxis/events/266050576/)  |
