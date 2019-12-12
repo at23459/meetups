@@ -1,6 +1,5 @@
 # Technologietrends und Innovation für die Praxis @ Vienna
-
-<img src="https://github.com/TIPVienna/meetups/blob/master/logos/916376216.jpg" width="600"> 
+![GitHub Logo](/logos/916376216.jpg)
 
 ## Overview
 
