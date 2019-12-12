@@ -1,5 +1,5 @@
 # Technologietrends und Innovation für die Praxis @ Vienna
-![GitHub Logo](/logos/916376216.jpg)
+<img src="/logos/916376216.jpg" width="600">
 
 ## Overview
 
