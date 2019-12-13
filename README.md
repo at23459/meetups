@@ -12,9 +12,9 @@ The meetup is currently held in German language, but might consider English pres
 
 |   |   |   |
 |:-:|:-|:-|
-|![Photo]()         | **Benedikt Klotz** |        Senior IT Architect, IBM Austria - Enterprise Accounts |
-|![Photo]()                                      | **Bettina Hainschink** | Organisaton of networking events andb IT Conferences with focus on ITSM, Cloud, AI, Security , Agile Software Development (Con.Ect Business Academy) |
-|![Photo]()                                      | **Martina Rumpeltes** | Manager IBM Client Center |
+|       | **Benedikt Klotz** |        Senior IT Architect, IBM Austria - Enterprise Accounts |
+|                                      | **Bettina Hainschink** | Organisaton of networking events andb IT Conferences with focus on ITSM, Cloud, AI, Security , Agile Software Development (Con.Ect Business Academy) |
+|                                     | **Martina Rumpeltes** | Manager IBM Client Center |
 
 
 
