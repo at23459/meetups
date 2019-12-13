@@ -1,5 +1,5 @@
 # Technologietrends und Innovation für die Praxis @ Vienna
-<img src="/logos/Image_small.jpg" width="600">
+<img src="/logos/916376216_Small_100x100" width="600">
 
 ## Overview
 
