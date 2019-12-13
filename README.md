@@ -1,5 +1,5 @@
 # Technologietrends und Innovation für die Praxis @ Vienna
-![Meetup Logo](/logos/916376216_Small_100x100)
+![Meetup Logo](/logos/916376216_Small_100x100.jpg)
 
 
 ## Overview
